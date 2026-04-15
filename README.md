@@ -35,4 +35,4 @@ This project (Full Source Code, IP, Licensing Engine, and Compiled binaries) is 
 I am transitioning into a full-time corporate software engineering role and I am looking for a buyer with the right B2B sales network to take this finished product to market.
 
 📧 **Contact for acquisition details:** danieledigiambi@gmail.com
-🔗 **LinkedIn:** www.linkedin.com/in/daniele-di-giamberardino-37460a274
+🔗 **LinkedIn:** www.linkedin.com/in/daniele-di-giamberardino
